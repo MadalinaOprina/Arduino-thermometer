@@ -27,10 +27,10 @@ void loop() {
     return;
   }
   
-  Serial.print(F("Temperatură: "));
+  Serial.print(F("Temperature: "));
   Serial.print(t);
   Serial.print(F("°C "));
-  Serial.print(F("Umiditate: "));
+  Serial.print(F("Humidity: "));
   Serial.print(h);
   Serial.println(F("%"));
 
