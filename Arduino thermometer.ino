@@ -34,5 +34,4 @@ void loop() {
   Serial.print(h);
   Serial.println(F("%"));
 
-  
 }
